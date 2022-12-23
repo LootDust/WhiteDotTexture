@@ -1,0 +1,13 @@
+
+game.png
+size: 370,277
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+OtherIcons/whiteDot
+  rotate: false
+  xy: 0, 0
+  size: 370, 277
+  orig: 370, 277
+  offset: 0, 0
+  index: -1
